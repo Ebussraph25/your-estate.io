@@ -1,5 +1,5 @@
 {
-  "name": "realestate",
+  "name": "yes",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -16,6 +16,8 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
     "react-outside-click-handler": "^1.3.0",
+    "react-router-dom": "^6.18.0",
+    "react-router-hash-link": "^2.4.3",
     "swiper": "^9.1.1"
   },
   "devDependencies": {
@@ -23,5 +25,9 @@
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
     "vite": "^4.2.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ZainRk/RealEstate-web-starterpack",
+  "author": "Stanchuks <chukwustanislaus@gmail.com>",
+  "license": "MIT"
 }
